@@ -19,7 +19,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://count.getloli.com/@:RikuSato0?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:stefanlange0?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stefanlange0&color=blueviolet&label=Profile+Views)

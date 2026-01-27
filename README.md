@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<p style="font-size: 2;">
+<p style="font-size: 10px; line-height: 1.6;>
 I'm a senior full-stack, AI, and blockchain developer focused on building scalable, efficient, and secure applications. I specialize in designing and developing end-to-end solutions using modern web technologies, including JavaScript (React, Node.js), Python (FastAPI, Django), and blockchain frameworks such as Ethereum and Hyperledger. My expertise spans across AI and machine learning, where I implement cutting-edge algorithms and models to create intelligent systems that solve complex problems.
 
 

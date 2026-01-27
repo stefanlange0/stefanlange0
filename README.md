@@ -2,6 +2,8 @@
 Senior Full Stack & AI, Blockchain
 </div>
 
+---
+
 ## Profile Views
 
 

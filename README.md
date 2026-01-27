@@ -1,5 +1,7 @@
 <div align="center">
-Senior Full Stack & AI, Blockchain
+  <h1 style="font-size: 2.5em;">
+    Senior Full Stack & AI, Blockchain
+  </h1>
 </div>
 
 ---
